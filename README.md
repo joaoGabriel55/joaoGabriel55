@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About me:
 
-- 🔭 I like to develop in backend and mainly frontend with web and mobile.
+- 🤩 I like to develop in backend and mainly frontend with web and mobile.
 - 🤔 I'm always questioning myself and trying to improve as person and as professional.
 - ✍🏽 I love draw soccer's and pop culture personalities.
 
