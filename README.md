@@ -10,7 +10,7 @@
  - 🛢 Databases: Postgres, MySQL and MongoDB.
  - 💻 Java with Spring, Node.js + Express and Python + Flask.
  - 🌐 JavaScript, ReactJS, VueJs, Vuetify.
- - 📱 Android Native with Java, Flutter and React Native
+ - 📱 Android Native with Java, Flutter and React Native (just a little)
 
 ### Follow me: 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.quaresmasantos98@gmail.com)
