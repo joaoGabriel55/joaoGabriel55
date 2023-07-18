@@ -4,7 +4,7 @@
 
 - 🤩 I like to develop frontend applications (web & mobile) in sometimes backend applications.
 - 🤔 I'm always questioning myself and trying to improve as person and as professional.
-- ✍🏽 I love draw soccer's and pop culture personalities.
+- ✍🏽 I love draw football and pop culture personalities.
 
 ### 🛠 Tech Stack:
  - 🛢 Databases: Postgres, MySQL and MongoDB;
