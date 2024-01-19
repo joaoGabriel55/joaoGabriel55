@@ -7,9 +7,9 @@
 - ✍🏽 I love draw football and pop culture personalities.
 
 ### 🛠 Tech Stack:
- - 🛢 Databases: Postgres, MySQL and MongoDB;
- - 💻 Java with Spring, Node.js + Express and Python + Flask;
- - 🌐 JavaScript, TypeScript, ReactJS, VueJs, Vuetify;
+ - 🛢 Databases: Postgres, MongoDB, DynamoDD;
+ - 💻 NodeJS, Ruby, Java;
+ - 🌐 JavaScript, TypeScript, ReactJS, NextJS;
  - 📱 Android Native with Java, Flutter and React Native
 
 ### Send me an email:
